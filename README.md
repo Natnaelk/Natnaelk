@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Natnaelk
-- 👀 I’m interested in coding
+- 👀 I’m a Mobile App Developer
 - 🌱 I’m currently learning python & c
 
 
