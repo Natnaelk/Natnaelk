@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Natnaelk
 - 👀 I’m a Mobile App Developer
-- 🌱 I’m currently learning python & c
+- 🌱 I’m currently learning at ALX.
 
 
 <!---
