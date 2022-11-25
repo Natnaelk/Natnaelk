@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Natnaelk
-- 👀 I’m a Mobile App Developer
+- 👀 I’m a Mobile App Developer mainly flutter and kotlin
+- Now learning React Native & Swift
 
 
 
