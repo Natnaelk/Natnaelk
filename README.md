@@ -2,6 +2,8 @@
 - 👀 I’m a Mobile App Developer mainly flutter and kotlin
 - Now learning React Native & Swift
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Natnaelk)](https://git.io/streak-stats)
+
 
 
 <!---
